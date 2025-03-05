@@ -1,1 +1,79 @@
 
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+myenv/
+venv/
+env/
+
+# Packages and dependencies
+*.egg-info/
+.eggs/
+*.egg
+
+# Python virtual environment folders
+env/
+venv/
+ENV/
+env/
+venv/
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+.eggs/
+.eggs-info/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+
+# PyInstaller
+build/
+dist/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyCharm files
+.idea/
+
+# VS Code settings
+.vscode/
+
+# MyEnv
+myenv/
+venv/
+
+# Virtual environments
+env/
+venv/
+env/
+myenv/
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.lnk
+
+# Environment variables
+.env
+
+# VS Code files
+.vscode/
+
+# Logs
+*.log
+
